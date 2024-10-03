@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <a href="https://gweneveve.io">
     <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="MasterHead">
@@ -6,10 +7,13 @@
 
 <h1 align="center">Hi 👋, I'm Gwen Hoover</h1>
 <h3 align="center">A senior computer science major</h3>
+-->
+<img src="./avatar3.gif" alt="Demo GIF" width="400"/>
+<img src="./bannertext.png" alt="Image description" width="500"/>
 
-- 🔭 I’m currently working on **Stardew Valley LLM**
+- I’m currently working on a **Stardew Valley LLM**
 
-- 🌱 I’m currently learning **LLM fine-tuning**
+- I’m currently learning about **LLM fine-tuning**
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
