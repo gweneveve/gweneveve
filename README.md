@@ -11,9 +11,9 @@
 <img src="./avatar3.gif" alt="Demo GIF" width="400"/>
 <img src="./bannertext.png" alt="Image description" width="500"/>
 
-- I’m currently working on a **Stardew Valley LLM**
+- I’m currently working on a [**Stardew Valley LLM**](https://github.com/gweneveve/Stardew-Valley-LLM)
 
-- I’m currently learning about **LLM fine-tuning**
+- I’m currently learning about **Retrieval Augmented Generation**
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
